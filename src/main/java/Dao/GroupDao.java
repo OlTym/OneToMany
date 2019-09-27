@@ -21,4 +21,14 @@ public class GroupDao implements ItemDao {
         session.save(item);
 
     }
+
+    @Override
+    public void delete(Item item) {
+
+    }
+
+    @Override
+    public void update(Item item) {
+
+    }
 }

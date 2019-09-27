@@ -7,7 +7,7 @@ import java.util.List;
 
 public interface BaseDao {
 
-    void insertGroup(Group group);
+  /*  void insertGroup(Group group);
 
     int deleteGroup(Group group);
 
@@ -24,5 +24,5 @@ public interface BaseDao {
     int insertStudentInGroup(Student student);
 
     int deleteStudentFromGroup(Student student);
-
+*/
 }
